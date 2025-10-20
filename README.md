@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**Fred-69dev/Fred-69dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:# 👋 Salut, je suis [Frédéric Vial] !
 
@@ -148,4 +145,3 @@ Plugin Capacitor personnalisé pour scanner les réseaux WiFi
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
