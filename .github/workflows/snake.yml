@@ -1,7 +1,10 @@
 # GitHub Action pour générer une animation du serpent qui mange vos contributions
 # À placer dans : .github/workflows/snake.yml
-
 name: Generate Snake
+
+# IMPORTANT : Permissions nécessaires pour pusher vers la branche output
+permissions:
+  contents: write
 
 on:
   schedule:
