@@ -3,7 +3,7 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Fred-69dev&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/VOTRE_PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/frédéric-vial-15a0b3303/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:freddev69@gmail.com)
 
 </div>
